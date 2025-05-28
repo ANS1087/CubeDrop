@@ -1,5 +1,9 @@
 # 🧊 CubeDrop
 
+<p align="center">
+  <img src="Thumbnail.jpg" width="350"/>
+</p>
+
 A fast-paced multiplayer puzzle game built in Unity using Netcode for GameObjects (NGO).
 
 ---
